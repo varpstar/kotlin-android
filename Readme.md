@@ -6,22 +6,33 @@ This repository contains all the projects completed during the "Android Basics w
 
 ## Projects
 
+1. **Business card** - Build app which shows your personal business card screen that users see when they complete all the tasks for a given day.
+   _Features_:
+   - android
+   - kotlin
+   - compose
+   - animations
+    <details>
+      <summary>Result gif</summary>
 
-1. **Completed task screen** - Build a screen that users see when they complete all the tasks for a given day. 
+      ![](./screenshots/businessCard.gif?raw=true)
+       </details>
+---
+2. **Completed task screen** - Build a screen that users see when they complete all the tasks for a given day. 
     <details>
       <summary>Result screenshot</summary>
 
    ![](./screenshots/completedTask.png?raw=true)
     </details>
 ---
-2. **Compose article** - Build a screen for the app, which displays a tutorial for Jetpack Compose.
+3. **Compose article** - Build a screen for the app, which displays a tutorial for Jetpack Compose.
     <details>
       <summary>Result screenshot</summary>
 
    ![](./screenshots/article.png?raw=true)
     </details>
 ---
-3. **Quadrant** - Build an app that displays the information about the Composable functions.
+4. **Quadrant** - Build an app that displays the information about the Composable functions.
     <details>
       <summary>Result screenshot</summary>
 
