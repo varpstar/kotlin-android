@@ -7,13 +7,8 @@ Projects completed during the "Android Basics with Compose" course. Each project
 ## Projects
 
 1. **Business card** - Build app which shows your personal business card screen that users see when they complete all the tasks for a given day.
-    
-   _Features_:
-   - android
-   - kotlin
-   - compose
-   - animations
-   - designing (from [reference](https://www.freepik.com/free-psd/vertical-business-card-mock-up_1153550.htm))
+
+   Design [reference](https://www.freepik.com/free-psd/vertical-business-card-mock-up_1153550.htm)
 
    <img src="https://github.com/varpstar/kotlin-android/blob/master/screenshots/businessCard.gif?raw=true" width="200" />
 
