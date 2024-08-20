@@ -6,7 +6,7 @@ Projects completed during the "Jetpack Compose" course. Each project demonstrate
 
 ## Projects
 
-1**Soothe application** - Implement a realistic app design based on mocks provided by a designer. MySoothe is a well-being app that lists various ways to improve your body and mind. It contains a section that lists your favorite collections, and a section with physical exercises
+1. **Soothe application** - Implement a realistic app design based on mocks provided by a designer. MySoothe is a well-being app that lists various ways to improve your body and mind. It contains a section that lists your favorite collections, and a section with physical exercises
 
    _Features_:
    - Lazy grids
@@ -28,7 +28,7 @@ Projects completed during the "Jetpack Compose" course. Each project demonstrate
 
 ---
 
-2**Compose lazy list with onboarding** - Build app which shows you onboarding screen and list of items
+2. **Compose lazy list with onboarding** - Build app which shows you onboarding screen and list of items
 
    _Features_:
    - Jetpack compose
