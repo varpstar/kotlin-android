@@ -1,8 +1,8 @@
 # Jetpack Compose basics
 
-Projects completed during the "Jetpack Compose basics" course. Each project demonstrates key concepts and techniques for building Android apps using Jetpack Compose.
+Projects completed during the "Jetpack Compose" course. Each project demonstrates key concepts and techniques for building Android apps using Jetpack Compose.
 
-[Android Basics with Compose course](https://developer.android.com/courses/android-basics-compose/course)
+[Jetpack Compose course](https://developer.android.com/courses/jetpack-compose/course)
 
 ## Projects
 

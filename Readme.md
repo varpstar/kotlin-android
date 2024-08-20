@@ -8,12 +8,23 @@ This repository contains all the projects completed during the android official 
 1. [Android Basics with Compose course](https://github.com/varpstar/kotlin-android/blob/master/androidBasicsCompose/Readme.md)
 
    _Features_:
-   - android
-   - kotlin
-   - compose
-   - animations
-   - designing (from [reference](https://www.freepik.com/free-psd/vertical-business-card-mock-up_1153550.htm))
+   - Android
+   - Kotlin
+   - Jetpack compose
+   - Animations
+   - Designing (from [reference](https://www.freepik.com/free-psd/vertical-business-card-mock-up_1153550.htm))
+---
+1. [Android Basics with Compose course](https://github.com/varpstar/kotlin-android/blob/master/androidBasicsCompose/Readme.md)
 
+   _Features_:
+   - Android
+   - Kotlin
+   - Jetpack compose
+   - Composable state
+   - State hoisting
+   - Lazy list API
+   - Animation API
+   - Theming API
 
 ## Requirements
 
