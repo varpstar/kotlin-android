@@ -14,7 +14,7 @@ This repository contains all the projects completed during the android official 
    - Animations
    - Designing (from [reference](https://www.freepik.com/free-psd/vertical-business-card-mock-up_1153550.htm))
 ---
-1. [Jetpack Compose course](https://github.com/varpstar/kotlin-android/blob/master/jetpackComposeBasics)
+2. [Jetpack Compose course](https://github.com/varpstar/kotlin-android/blob/master/jetpackComposeBasics)
 
    _Features_:
    - Android
