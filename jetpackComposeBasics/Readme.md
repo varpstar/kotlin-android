@@ -40,4 +40,4 @@ Projects completed during the "Jetpack Compose" course. Each project demonstrate
    - Animation API
    - Theming API
 
-      <img src="https://github.com/varpstar/kotlin-android/blob/master/screenshots/jetpack.gif?raw=true" width="200" />
+   <img src="https://github.com/varpstar/kotlin-android/blob/master/screenshots/jetpack.gif?raw=true" width="200" />
