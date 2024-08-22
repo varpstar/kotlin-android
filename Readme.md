@@ -25,6 +25,8 @@ This repository contains all the projects completed during the android official 
    - Lazy list API
    - Animation API
    - Theming API
+   - Slot API
+   - ViewModels
 
 ## Requirements
 
