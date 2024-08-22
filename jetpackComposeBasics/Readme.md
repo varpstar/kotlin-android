@@ -28,7 +28,20 @@ Projects completed during the "Jetpack Compose" course. Each project demonstrate
 
 ---
 
-2. **Compose lazy list with onboarding** - Build app which shows you onboarding screen and list of items
+2. **ViewModels and structures with jetpack compose** - Build app which shows wellness tasks list with optimized structure of composable functions, and using ViewModels
+
+   _Features_:
+   - State driven UI
+   - State hoisting
+   - Stateless and Stateful composables
+   - Lazy column
+   - ViewModel
+
+   <img src="https://github.com/varpstar/kotlin-android/blob/master/screenshots/taskmanager.gif?raw=true" width="200" />
+
+---
+
+3. **Compose lazy list with onboarding** - Build app which shows you onboarding screen and list of items
 
    _Features_:
    - Jetpack compose
@@ -38,6 +51,6 @@ Projects completed during the "Jetpack Compose" course. Each project demonstrate
    - State hoisting
    - Lazy list API
    - Animation API
-   - Theming API
+   - Theming API 
 
    <img src="https://github.com/varpstar/kotlin-android/blob/master/screenshots/jetpack.gif?raw=true" width="200" />
